@@ -6,4 +6,8 @@ I'm adding this in RickTest2
 This in in RickTest just to test the pull
 Added this in RickTest2 on 05042016 6:34pm
 
+<<<<<<< HEAD
 Also makeing a change to RickTest2 and pushing to github
+=======
+add this to RickTest and push to remote at the same time I'm adding to RickTest2
+>>>>>>> c237bb4f67025206bc0d6118e51e16cd6c45fe28

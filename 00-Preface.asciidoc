@@ -5,3 +5,5 @@ I'm adding this in RickTest2
 
 This in in RickTest just to test the pull
 Added this in RickTest2 on 05042016 6:34pm
+
+add this to RickTest and push to remote at the same time I'm adding to RickTest2

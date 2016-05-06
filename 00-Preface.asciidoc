@@ -15,3 +15,5 @@ add this to RickTest and push to remote at the same time I'm adding to RickTest2
 Try this push from RickTest so I can fetch from RickTest2
 
 Try this from RickTest. I need to do a fetch and then pull from rickTest2
+
+new line for ricktest
